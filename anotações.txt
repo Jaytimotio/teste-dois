@@ -1,0 +1,5 @@
+sobre o primeiro desafio da Dio ainda tenho algumas duvida:
+por exemplo a pasta git.quando criei o repositorio eu realmente naõa
+consegui importar, mesmo tendo feito o passo a passo.
+nota:a interface do curso é um pouco diferente o que também dificulta
+o acompanhamento de alguns procedimentos 
